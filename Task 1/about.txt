@@ -1,1 +1,7 @@
+Title:
+Iris Flower Classification Machine Learning Project.
 
+Explanation:
+
+A classification model is built to prdict the class of flowers in the Iris Dataset precisely.
+Model Used : Logistic Regression.
