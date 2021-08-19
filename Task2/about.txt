@@ -1,1 +1,7 @@
+Task Title:
+Prediction using decision tree algorithm.
 
+Explanation:
+
+A Decision Tree Classifier is made to predict the class of flower in Iris Dataset. 
+Next, A Graphical visualization is made to visualise the decision tree.
